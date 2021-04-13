@@ -3,7 +3,7 @@ For MyGo interview test
 
 1. 請將整包MyGo_TestExam clone下來
 2. 到資料夾 MyGo_TestExam路徑下，執行指令：coverage run Test_NestedDictInverse.py
-3. 執行指令：converage report -m 
+3. 執行指令：coverage report -m 
 
 執行結果如下：
 
